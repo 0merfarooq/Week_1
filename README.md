@@ -9,6 +9,16 @@ A deep learning model that automatically classifies waste into 10 categories to 
 
 ---
 
+An AI-powered garbage classification system using Convolutional Neural Networks (CNNs) to automate waste segregation, enabling efficient recycling and reducing manual sorting effort.
+🧩 Problem Statement
+Improper waste management is one of the most persistent environmental challenges. Every year, millions of tons of waste end up in landfills due to ineffective segregation. Manual waste sorting is time-consuming, costly, and exposes workers to hazardous conditions.
+This project develops an automated image-based classification model using deep learning to:
+
+Enhance efficiency and accuracy of waste segregation systems
+Reduce human effort and health risks in waste handling
+Promote environmental sustainability through better recycling practices
+Provide a scalable foundation for smart waste management systems (intelligent dustbins, sorting belts, recycling automation)
+
 ## 📊 Model Performance
 
 - **Validation Accuracy:** 90.46%
