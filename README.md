@@ -321,9 +321,8 @@ Dataset: [MIT License](https://www.kaggle.com/datasets/sumn2u/garbage-classifica
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [0merfarooq](https://github.com/0merfarooq)
+- Email: mohdomerfarooq17@gmail.com
 
 ---
 
