@@ -285,7 +285,7 @@ See `deployment/` folder for Docker setup and API code.
 - [ ] Ensemble multiple models
 
 ### Feature Additions
-- [ ] Multi-language support (for JNTU EduAssist integration)
+- [ ] Multi-language support
 - [ ] Real-time video classification
 - [ ] Mobile app (TensorFlow Lite)
 - [ ] Recycling instructions per category
